@@ -1,0 +1,131 @@
+input_text,response
+"Hello, how are you?","I'm doing well, thank you! How can I assist you today?"
+"What is your name?","I am a chatbot created to help you with your queries."
+"Can you help me with programming?","Absolutely! What programming language do you need help with?"
+"Tell me a joke.","Why do programmers prefer dark mode? Because light attracts bugs!"
+"How do I install Python?","You can download Python from the official website and follow the installation instructions for your operating system."
+"What's the weather like today?","I'm not sure about the weather, but I can help you with programming questions!"
+"Goodbye!","Have a great day! Feel free to ask if you have more questions."
+
+"When was the Indian Constitution adopted?","The Constitution of India was adopted by the Constituent Assembly on 26 November 1949 and came into effect on 26 January 1950."
+"Who is known as the father of the Indian Constitution?","Dr. B.R. Ambedkar is known as the father of the Indian Constitution. He served as the Chairman of the Drafting Committee."
+"How many fundamental rights are in the Indian Constitution?","The Indian Constitution originally provided seven fundamental rights, which are now six after the Right to Property was removed as a fundamental right by the 44th Amendment in 1978."
+"What is the Preamble of the Indian Constitution?","The Preamble declares India as a sovereign, socialist, secular, democratic republic and secures justice, liberty, equality, and fraternity for all its citizens."
+"What are Directive Principles of State Policy?","Directive Principles of State Policy, contained in Part IV (Articles 36-51) of the Constitution, are guidelines for the government to secure social and economic justice, though they are not enforceable by courts."
+"How can the Indian Constitution be amended?","The Indian Constitution can be amended through Article 368, which requires a special majority (two-thirds members present and voting) in both houses of Parliament. Some provisions also require ratification by at least half of the state legislatures."
+"What is Article 21 about?","Article 21 of the Indian Constitution guarantees the right to life and personal liberty. It states that 'No person shall be deprived of his life or personal liberty except according to procedure established by law.'"
+"How many schedules are there in the Indian Constitution?","The Indian Constitution originally had 8 schedules, but now contains 12 schedules that address various aspects like state lists, languages, administration, and panchayati raj institutions."
+"What is Article 370?","Article 370 previously granted special autonomous status to Jammu and Kashmir. It was effectively abrogated on August 5, 2019, through a Presidential Order and subsequent legislation."
+"What are the three lists in the Indian Constitution?","The Indian Constitution divides legislative powers between the Union and States through three lists: Union List (subjects on which Parliament can make laws), State List (state legislature subjects), and Concurrent List (where both can legislate)."
+
+"What is the Fundamental Duty of an Indian citizen?","Fundamental Duties, added by the 42nd Amendment in 1976, include respecting national symbols, promoting harmony, protecting the environment, developing scientific temper, safeguarding public property, and striving for excellence."
+"What is Article 32 of the Indian Constitution?","Article 32 is known as the 'Right to Constitutional Remedies' and empowers citizens to approach the Supreme Court directly for enforcement of their fundamental rights. Dr. Ambedkar called it 'the heart and soul of the Constitution'."
+"How many articles are there in the Indian Constitution?","The Indian Constitution originally had 395 articles, but after amendments, it now contains 448 articles divided into 25 parts."
+"What is a Money Bill under the Indian Constitution?","A Money Bill, as defined in Article 110, deals with taxation, government spending, or borrowing. It can only be introduced in the Lok Sabha, and the Rajya Sabha has limited powers regarding such bills."
+"What is the 73rd Constitutional Amendment?","The 73rd Constitutional Amendment (1992) gave constitutional status to Panchayati Raj institutions, establishing a three-tier system of local self-government in rural areas with regular elections and reserved seats for SC/ST and women."
+"What is the difference between fundamental rights and DPSP?","Fundamental Rights are justiciable and enforceable through courts, while Directive Principles of State Policy are non-justiciable guidelines for governance that cannot be enforced by courts but are fundamental in policymaking."
+"What is the concept of Basic Structure in the Indian Constitution?","The Basic Structure doctrine, established in the Kesavananda Bharati case (1973), holds that Parliament cannot amend certain essential features of the Constitution, such as democracy, federalism, secularism, and judicial independence."
+"What is the Right to Education in India?","Article 21A, added by the 86th Amendment in 2002, provides free and compulsory education to all children aged 6-14 years as a fundamental right, implemented through the Right to Education Act of 2009."
+"What is the role of the President of India?","The President is India's head of state, first citizen, and Supreme Commander of armed forces. Presidential powers include assenting to bills, granting pardons, and appointing officials, mostly exercised on the Council of Ministers' advice."
+
+"What is the 'Doctrine of Pleasure' in the Indian Constitution?","Articles 310-311 establish that civil servants hold office at the President's or Governor's pleasure, but with constitutional protections against arbitrary dismissal or demotion."
+
+"What are the emergency provisions in the Indian Constitution?","The Constitution provides three types of emergencies: National (Article 352), State/President's Rule (Article 356), and Financial (Article 360). During emergencies, fundamental rights may be restricted and federal structure temporarily altered."
+
+"What is the Election Commission of India?","The Election Commission (Article 324) is an autonomous body that conducts elections for Parliament, State Legislatures, and President/Vice-President. It prepares electoral rolls, recognizes parties, and implements the Model Code of Conduct."
+
+"What is the writ jurisdiction of Supreme Court and High Courts?","The Supreme Court (Article 32) and High Courts (Article 226) can issue five writs: Habeas Corpus, Mandamus, Prohibition, Certiorari, and Quo Warranto to enforce rights and ensure constitutional compliance."
+
+"What is the Comptroller and Auditor General of India?","The CAG (Articles 148-151) audits government accounts, ensuring financial accountability. Appointed by the President with security of tenure similar to Supreme Court judges."
+
+"What are the special provisions for Scheduled Castes and Scheduled Tribes?","The Constitution provides SCs/STs with reservations in legislatures (Articles 330, 332) and public employment (Articles 16(4), 335), protection from exploitation (Article 46), and dedicated National Commissions (Articles 338, 338A)."
+
+"How does the GST Council function?","The GST Council (Article 279A) makes GST recommendations with the Union Finance Minister as chair and State Finance Ministers as members. The Centre has one-third voting weight and states two-thirds, with decisions requiring 75% majority."
+
+"What is the Anti-Defection Law?","Added by the 52nd Amendment (1985) in the Tenth Schedule, it disqualifies legislators who defect from their parties, vote against party directions, or abstain despite party whip, with the Speaker/Chairman deciding disqualifications."
+
+"How are Anglo-Indians represented in the Indian Constitution?","Originally, Anglo-Indians had nominated seats in Lok Sabha (Article 331) and state assemblies (Article 333), but the 104th Amendment (2019) ended this reservation. Articles 336-337 provide for employment consideration and educational safeguards."
+
+"What is the concept of Judicial Review?","Judicial Review, derived from Articles 13, 32, 136, 226, and 246, empowers courts to examine constitutional validity of laws and executive actions. India follows limited judicial review based on constitutional grounds rather than policy merits."
+
+"Who is known as a top constitutional law expert in India?","Fali S. Nariman is renowned as one of India's foremost constitutional law experts with extensive experience in arbitration matters."
+
+"Which lawyer is famous for corporate and international arbitration in India?","Harish Salve is recognized for his expertise in corporate law, constitutional matters, and international arbitration, representing high-profile cases including the Kulbhushan Jadhav case at the ICJ."
+
+"Who is a leading criminal law advocate in India?","Mukul Rohatgi, former Attorney General of India, is a prominent criminal law and constitutional law expert known for handling significant cases in the Supreme Court."
+
+"Which female lawyer is known for corporate law in India?","Zia Mody is one of India's most respected female lawyers specializing in corporate law, mergers & acquisitions, and is founding partner of AZB & Partners."
+
+"Who specializes in public interest litigation in India?","Prashant Bhushan is known for his work in public interest litigation and human rights law, taking up several landmark cases focusing on governance and accountability."
+
+"Which lawyer is an expert in intellectual property law?","Nishith Desai specializes in international taxation and intellectual property law and is the founder of Nishith Desai Associates, known for innovative legal research."
+
+"Who is a top criminal defense lawyer in India?","KTS Tulsi is a renowned criminal law expert who has served as Additional Solicitor General of India and handled numerous high-profile criminal cases."
+
+"Which law firm is known for corporate law and mergers?","Amarchand Mangaldas is a top-tier law firm specializing in corporate law and mergers, with extensive experience handling major business transactions."
+
+"Who is an expert in competition law in India?","Anand Pathak is recognized for his expertise in competition law and corporate law matters, advising on complex antitrust issues in India."
+
+"Which lawyer specializes in media and entertainment law?","Ameet Naik is known for his expertise in media and entertainment law, representing major media houses and entertainment companies in India."
+
+
+"Who is the best lawyer for constitutional law cases?","Fali S. Nariman is widely regarded as one of the best lawyers for constitutional law cases in India, with decades of experience arguing landmark constitutional matters before the Supreme Court."
+
+"Which lawyer should I consult for corporate litigation?","Harish Salve is considered among the best for corporate litigation and international arbitration cases, having represented major corporations in high-stakes disputes."
+
+"Who is the top criminal defense lawyer in India?","Ram Jethmalani was considered the top criminal defense lawyer in India, with KTS Tulsi and Sidharth Luthra now being among the most sought-after criminal law experts."
+
+"Which lawyer is best for intellectual property cases?","Nishith Desai is highly recommended for intellectual property cases, especially those involving international aspects, while Pravin Anand of Anand and Anand is considered a specialist in patent and trademark litigation."
+
+"Who should I approach for public interest litigation?","Prashant Bhushan is recognized as the go-to lawyer for public interest litigation cases, particularly those involving governance, accountability, and environmental issues."
+
+"Which lawyer is best suited for tax litigation?","P. Chidambaram is considered among the best for complex taxation matters, while Arvind Datar is also highly regarded for direct and indirect tax litigation."
+
+"Who is the best lawyer for family law and divorce cases?","Pinky Anand is well-regarded for family law cases, while Geeta Luthra and Indu Malhotra (before her elevation to Supreme Court) are also considered experts in matrimonial disputes."
+
+"Which lawyer should I consult for real estate disputes?","Kapil Sibal and Mukul Rohatgi are considered top choices for complex real estate litigation, particularly in high-value property disputes."
+
+"Who is the best lawyer for cyber crime cases?","Pavan Duggal is considered India's foremost expert in cyber law and cyber crime cases, having specialized in technology law for over two decades."
+
+"Which lawyer is best for environmental litigation?","M.C. Mehta is considered the pioneer in environmental litigation in India, while Ritwick Dutta is regarded as a leading environmental lawyer handling conservation cases."
+
+"Who should I approach for medical negligence cases?","K.K. Venugopal and Arvind Datar are considered among the best lawyers for medical negligence cases involving complex medical evidence and substantial damages."
+
+"Which lawyer is best for banking and finance disputes?","Cyril Shroff and Shardul Shroff are considered leading experts for banking and finance disputes through their respective firms, handling complex financial litigation."
+
+"Who is the top lawyer for securities law cases?","Somasekhar Sundaresan is considered a leading expert in securities law, particularly in matters involving SEBI regulations and securities market disputes."
+
+"Which lawyer should I consult for competition law matters?","Anand Pathak and Amitabh Kumar are considered top experts in competition law, handling cases involving the Competition Commission of India and antitrust issues."
+
+"Who is the best lawyer for international arbitration?","Harish Salve and Gourab Banerji are considered among the best for international arbitration cases, representing clients in complex cross-border disputes."
+
+"Who is the best lawyer for constitutional law?","Fali S. Nariman is India's leading constitutional law expert with over five decades of experience in landmark constitutional cases."
+"Who is the top lawyer for corporate litigation?","Harish Salve is India's premier corporate litigation lawyer, specializing in high-stakes disputes and international arbitration."
+"Who is the best criminal defense lawyer?","Ram Jethmalani (deceased) was India's legendary criminal defense lawyer. Currently, KTS Tulsi and Sidharth Luthra are top criminal law experts."
+"Who is the leading intellectual property lawyer?","Nishith Desai and Pravin Anand are India's foremost intellectual property lawyers specializing in international IP matters and patent litigation."
+"Who is the best public interest litigation lawyer?","Prashant Bhushan specializes in public interest litigation, focusing on governance, accountability, and environmental issues."
+"Who is the top tax litigation lawyer?","P. Chidambaram and Arvind Datar are India's leading tax litigation experts handling complex direct and indirect tax matters."
+"Who is the best family law and divorce lawyer?","Pinky Anand, Geeta Luthra, and Indu Malhotra (before Supreme Court) are India's top family law specialists."
+"Who is the leading real estate dispute lawyer?","Kapil Sibal and Mukul Rohatgi specialize in high-value property litigation and complex real estate disputes."
+"Who is the top cyber law expert?","Pavan Duggal is India's foremost cyber law specialist with over two decades of experience in technology law cases."
+"Who is the best environmental litigation lawyer?","M.C. Mehta and Ritwick Dutta are India's leading environmental lawyers specializing in conservation and pollution cases."
+"Who is the top medical negligence lawyer?","K.K. Venugopal and Arvind Datar handle complex medical negligence cases involving substantial damage claims."
+"Who is the best banking and finance lawyer?","Cyril Shroff and Shardul Shroff lead India's top banking and finance legal practices through their respective firms."
+"Who is the top securities law expert?","Somasekhar Sundaresan specializes in securities law cases involving SEBI regulations and market disputes."
+"Who is the leading competition law lawyer?","Anand Pathak and Amitabh Kumar are India's top competition law experts handling antitrust matters."
+"Who is the best international arbitration lawyer?","Harish Salve and Gourab Banerji represent clients in complex cross-border disputes and international arbitration."
+"Who is the top corporate law expert?","Zia Mody specializes in corporate law, mergers and acquisitions as co-founder of AZB & Partners."
+"Who is the best commercial litigation lawyer?","Abhishek Manu Singhvi is a leading commercial litigation expert in the Supreme Court of India."
+"Who is the top lawyer for white-collar crimes?","Sidharth Luthra specializes in white-collar crimes and criminal law as a former Additional Solicitor General."
+"Who is the best telecommunications lawyer?","Gopal Jain specializes in telecommunications law and regulatory matters."
+"Who is the leading infrastructure lawyer?","Hemant Sahai is India's top infrastructure and energy law specialist as founder of HSA Advocates."
+"Who is the best media and entertainment lawyer?","Ameet Naik specializes in media and entertainment law representing major industry clients."
+"Who is the top human rights lawyer?","Soli Sorabjee (deceased) and Colin Gonsalves are renowned human rights advocates in India."
+"Who is the best maritime law expert?","Shardul Thacker specializes in shipping, maritime and offshore energy litigation."
+"Who is the leading sports law attorney?","Vaibhav Gaggar is India's prominent sports and gaming law specialist."
+"Who is the best insurance litigation lawyer?","Jyoti Sagar and Neeraj Tuli are leading insurance litigation specialists."
+"Who is the top bankruptcy lawyer?","Shardul Shroff and Alka Kapoor specialize in insolvency and bankruptcy matters under the IBC."
+"Who is the best employment law expert?","Nohid Nooreyezdan and Anshul Prakash are leading employment and labor law specialists."
+"Who is the top immigration lawyer?","Poorvi Chothani specializes in immigration law and global mobility solutions."
+"Who is the best patent litigation lawyer?","Pravin Anand is India's foremost patent litigation specialist with expertise in pharmaceutical patents."
+"Who is the leading lawyer for startups?","Vaibhav Parikh specializes in startup law, venture capital and technology transactions."
